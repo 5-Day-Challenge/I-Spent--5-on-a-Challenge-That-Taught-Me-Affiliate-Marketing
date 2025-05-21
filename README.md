@@ -12,7 +12,7 @@
 
   <h1>I Spent $5 on a Challenge That Taught Me Affiliate Marketing — Here’s What Happened</h1>
 
-  <p><strong>Target Keywords:</strong> Learn Launch Lead Challenge review, $5 affiliate marketing challenge, beginner affiliate marketing 2025, how to start affiliate marketing online</p>
+  
 
   <h2>🚀 Why I Took a Risk on a $5 Affiliate Marketing Challenge</h2>
   <p>I was skeptical. Another “make money online” course? For just <strong>$5</strong>? I’d seen those before — most were garbage, recycled content, or upsells-in-disguise.</p>
@@ -62,7 +62,7 @@
   </p>
 
   <footer>
-    SEO Tags: Learn Launch Lead Challenge review, affiliate marketing for beginners 2025, start online business under $10, $5 marketing course  
+    
     <br><br>
     © 2025 | Opinions are my own.
   </footer>
