@@ -63,7 +63,7 @@
 
   <footer>
     
-    <br><br>
+    
     © 2025 | Opinions are my own.
   </footer>
 
