@@ -1,4 +1,4 @@
-# I-Spent--5-on-a-Challenge-That-Taught-Me-Affiliate-Marketin<!DOCTYPE html>
+# I-Spent--5-on-a-Challenge-That-Taught-Me-Affiliate-Marketing<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -6,45 +6,7 @@
   <meta name="description" content="My honest review of the $5 Learn Launch Lead Challenge — a step-by-step affiliate marketing course for beginners in 2025.">
   <meta name="keywords" content="Learn Launch Lead Challenge review, $5 affiliate marketing course, how to start affiliate marketing in 2025, beginner make money online guide">
   <meta name="author" content="Your Name">
-  <title>I Spent $5 on a Challenge That Taught Me Affiliate Marketing</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      line-height: 1.7;
-      max-width: 700px;
-      margin: 0 auto;
-      padding: 2rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #111;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a.button {
-      display: inline-block;
-      background-color: #0066cc;
-      color: #fff;
-      padding: 12px 20px;
-      margin: 1rem 0;
-      border-radius: 5px;
-      text-align: center;
-    }
-    .note {
-      background-color: #e0f7fa;
-      padding: 1rem;
-      border-left: 4px solid #00acc1;
-      margin: 1rem 0;
-    }
-    footer {
-      font-size: 0.9rem;
-      margin-top: 3rem;
-      color: #777;
-    }
-  </style>
+  
 </head>
 <body>
 
